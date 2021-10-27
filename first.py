@@ -1,1 +1,3 @@
-prin("Hisssssss...")
+print("Hisssssss...")
+
+print("Hello, World!")
